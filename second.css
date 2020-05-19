@@ -8,7 +8,7 @@
   box-shadow: 0 30px 60px -12px rgb(88, 87, 87),
     0 18px 36px -18px rgba(7, 7, 7, 0.029),
     0 -12px 36px -8px rgba(22, 22, 22, 0.025);
-  height: 55vh;
+  height: 50vh;
   margin: 1rem;
 }
 .user__header {
