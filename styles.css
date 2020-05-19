@@ -1,4 +1,5 @@
 @import "./first.css";
+@import "./second.css";
 
 body {
   background-color: black;
